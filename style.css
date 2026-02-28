@@ -58,6 +58,12 @@ body {
     color: #666;
     font-size: 16px;
 }
+.seo-text {
+    max-width: 800px;
+    margin: 15px auto;
+    color: #666;
+    font-size: 14px;
+}
 .view {
     font-size: 14px;
     color: #7027b5;
