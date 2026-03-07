@@ -283,23 +283,6 @@ form input,form select{width:90%;}
     color: gold;
 }
 
-.social-icons {
-    margin-top: 10px;
-}
-
-.social-icons a {
-    display: inline-block;
-    margin-right: 10px;
-    color: #aaa;
-    font-size: 14px;
-    text-decoration: none;
-    transition: 0.3s;
-}
-
-.social-icons a:hover {
-    color: gold;
-}
-
 .footer-bottom {
     border-top: 1px solid #222;
     text-align: center;
