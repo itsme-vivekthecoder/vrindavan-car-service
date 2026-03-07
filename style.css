@@ -536,3 +536,15 @@ form input,form select{width:90%;}
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
     z-index: 1000;
 }
+.home-btn{
+position:fixed;
+bottom:20px;
+left:20px;
+background:#ffcc00;
+color:black;
+padding:12px 18px;
+border-radius:30px;
+text-decoration:none;
+font-weight:bold;
+box-shadow:0 4px 10px rgba(0,0,0,0.3);
+}
