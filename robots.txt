@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vrindavancab.com/sitemap.xml
+Sitemap: https://brajcab.com/sitemap.xml
