@@ -490,7 +490,7 @@ form input,form select{width:90%;}
     display: inline-block;
     margin: 8px;
     padding: 10px 18px;
-    border-radius: 25px;
+    border-radius: 5px;
     text-decoration: none;
     color: white;
     font-size: 14px;
