@@ -15,6 +15,34 @@
     <priority>0.8</priority>
   </url>
 
+  <url>
+    <loc>https://brajcab.com/vrindavan-taxi.html</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+<url>
+    <loc>https://brajcab.com/mathura-taxi.html</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+<url>
+    <loc>https://brajcab.com/delhi-airport-vrindavan-taxi.html</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+<url>
+    <loc>https://brajcab.com/govardhan-parikrama-taxi.html</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
  <url>
     <loc>https://brajcab.com/about.html</loc>
     <lastmod>2026-02-28</lastmod>
