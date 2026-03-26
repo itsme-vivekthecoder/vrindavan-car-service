@@ -17,55 +17,39 @@
 <link rel="stylesheet" href="style.css">
 
 <script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "localBusiness",
- "name": "Braj Cab",
- "url": "https://brajcab.com",
- "logo": "https://brajcab.com/images/logo.png",
- "image": "https://brajcab.com/images/suv.jpg",
- "description": "Taxi service in Mathura and Vrindavan for temple tours, airport transfers and Braj tourism.",
- "telephone": "+91-8006565109",
- "areaServed": {
- "@type": "Place",
- "name": "Mathura Vrindavan"
- },
- "address": {
- "@type": "PostalAddress",
- "addressLocality": "Vrindavan",
- "addressRegion": "Uttar Pradesh",
- "addressCountry": "India"
- },
- "founder": {
- "@type": "Person",
- "name": "Hareepal Singh"
- },
- "sameAs": [
- "https://maps.google.com",
- "https://wa.me/918006565109"
- ]
-}
-</script>
+    {
+      "@context": "https://brajcab.com/",
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "localBusiness",
+        "image": "https://www.brajcab.com/brajcab.jpg",
+        "name": "Braj Cab",
+        "servesCuisine": "Taxi Service",
+        "priceRange": "1000 - 5000 INR",
+        "telephone": "+918006565109",
+        "address" :{
+          "@type": "PostalAddress",
+          "streetAddress": "vrindavan, mathura",
+          "addressLocality": "Vrindavan",
+          "addressRegion": "UP",
+          "postalCode": "281121",
+          "addressCountry": "IN"
+        }
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 4
+      },
+      "author": {
+        "@type": "Person",
+        "name": "hareepal singh"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Braj Cab"
+      }
+    }
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Review",
- "itemReviewed": {
- "@type": "TaxiService",
- "name": "Braj Cab"
- },
- "author": {
- "@type": "Person",
- "name": "Temple Tourist"
- },
- "reviewRating": {
- "@type": "Rating",
- "ratingValue": "5",
- "bestRating": "5"
- },
- "reviewBody": "Very reliable taxi service for visiting Banke Bihari Temple and Prem Mandir."
-}
 </script>
 
 </head>
